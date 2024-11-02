@@ -1,0 +1,13 @@
+.align-items { 
+    display: flex; 
+    justify-content: space-between; 
+} 
+
+.align-content { 
+    display: flex; 
+    align-items: center; 
+}
+
+.img {
+    justify-items: space-between;
+}
